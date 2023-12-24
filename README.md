@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sonatan Paul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703376000&semt=ais" alt="Girl in a jacket"  >
+
 
 - 🌱 I’m currently learning **React JS, Next JS,Javascript**
 
