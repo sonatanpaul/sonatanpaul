@@ -15,4 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sonatanpaul&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📧 For Business Inquiries:
+<a href="mailto:mrsonatanpaul@gmail.com">
+  <img style="margin: 5px"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email--brightgreen"
+    alt="emailAddress"
+  />
+</a>
