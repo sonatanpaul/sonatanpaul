@@ -1,5 +1,6 @@
-# 💫 About Me:
-👋 Hi there! I'm Sonatan Paul.<br>🌟 Aspiring Web Developer | Learner | Dreamer<br>I am on a journey to master web development by building strong foundations in both front-end and back-end technologies. My learning philosophy involves hands-on practice, step-by-step guidance, and connecting with developer communities to grow my skills and network.
+ <h2 align="center">Hello there! My name is Sonatan Paul 👋 </h2>
+ 
+🌟 Aspiring Web Developer | Learner | Dreamer<br>I am on a journey to master web development by building strong foundations in both front-end and back-end technologies. My learning philosophy involves hands-on practice, step-by-step guidance, and connecting with developer communities to grow my skills and network.
 
 
 ## 🌐 Socials:
