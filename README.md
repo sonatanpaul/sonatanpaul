@@ -23,9 +23,10 @@ I am on a journey to master web development by building strong foundations in bo
     alt="emailAddress"
   />
 </a>
+</br>
 <a href="mailto:mrsonatanpaul@gmail.com">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Whatsapp-+8801898902239-green"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Whatsapp-+8801898902239-blue"
     alt="emailAddress"
   />
 </a>
