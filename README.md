@@ -17,13 +17,10 @@ I am on a journey to master web development by building strong foundations in bo
 ![](https://github-profile-trophy.vercel.app/?username=sonatanpaul&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📧 For Business Inquiries:
-<a href="mailto:mrsonatanpaul@gmail.com">
-  <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-mrsonatanpaul@gmail.com-blue"
-    alt="emailAddress"
-  />
-</a>
+<h4 style="margin: 5px">
+ Email : mrsonatanpaul@gmail.com
+</h4>
 </br>
-<h2 style="margin: 5px">
+<h4 style="margin: 5px">
  Whatsapp : +8801898902239
-</h3>
+</h4>
