@@ -19,7 +19,7 @@ I am on a journey to master web development by building strong foundations in bo
 ## 📧 For Business Inquiries:
 <a href="mailto:mrsonatanpaul@gmail.com">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-mrsonatanpaul@gmail.com-green"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-mrsonatanpaul@gmail.com-black"
     alt="emailAddress"
   />
 </a>
