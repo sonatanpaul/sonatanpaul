@@ -20,7 +20,6 @@ I am on a journey to master web development by building strong foundations in bo
 <h4 style="margin: 5px">
  Email : mrsonatanpaul@gmail.com
 </h4>
-</br>
 <h4 style="margin: 5px">
  Whatsapp : +8801898902239
 </h4>
